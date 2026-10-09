@@ -1,0 +1,83 @@
+name: Refresh hiring dashboard
+
+# Daily 11:43 UTC (~6:43 AM Central): live postings from Adzuna.
+# Mondays and manual runs also refresh the BLS numbers and the "what changed" log.
+on:
+  schedule:
+    - cron: "43 11 * * *"
+  workflow_dispatch:
+    inputs:
+      weekly:
+        description: "Also run the weekly BLS refresh"
+        type: boolean
+        default: true
+  push:
+    branches: [main]
+    paths: ["index.html", "roles.json", "scripts/**", ".github/workflows/refresh.yml"]
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: hiring-refresh
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Live postings
+        if: github.event_name != 'push'
+        continue-on-error: true
+        env:
+          ADZUNA_APP_ID: ${{ secrets.ADZUNA_APP_ID }}
+          ADZUNA_APP_KEY: ${{ secrets.ADZUNA_APP_KEY }}
+        run: python scripts/refresh_hiring.py live
+
+      - name: Is it Monday?
+        id: day
+        run: echo "dow=$(date -u +%u)" >> "$GITHUB_OUTPUT"
+
+      - name: Weekly BLS benchmarks
+        if: (github.event_name == 'schedule' && steps.day.outputs.dow == '1') || (github.event_name == 'workflow_dispatch' && inputs.weekly)
+        continue-on-error: true
+        env:
+          BLS_API_KEY: ${{ secrets.BLS_API_KEY }}
+        run: python scripts/refresh_hiring.py weekly
+
+      - name: Commit refreshed data
+        if: github.event_name != 'push'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data.json
+          git diff --cached --quiet || (git commit -m "Refresh $(date -u +%F)" && git push)
+
+      - name: Stage site
+        run: |
+          mkdir -p _site
+          cp index.html data.json .nojekyll _site/
+          [ -f CNAME ] && cp CNAME _site/ || true
+
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4
