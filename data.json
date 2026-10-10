@@ -48,59 +48,59 @@
   ]
  },
  "live": {
-  "updated": "Oct 9, 2026",
+  "updated": "Oct 10, 2026",
   "roles": [
    {
     "title": "Registered Nurse",
     "n": 30,
-    "lo": 75000,
+    "lo": 106860,
     "hi": 136916,
     "emps": [
-     "Methodist Le Bonheur Healthcare",
-     "Qualivis / Methodist University",
-     "OneStaff Medical"
+     "BrightSpring Health Services",
+     "Heart N Soul Hospice",
+     "Methodist University Hospital"
     ],
-    "latest": "Oct 9",
-    "apply": "https://www.adzuna.com/land/ad/5920658091?se=lqc8Pg3E8RGjSfrCsBO0RQ&utm_medium=api&utm_source=5ea67274&v=27150701BA0D672B098CDDCCD419A5E153C08A79"
+    "latest": "Oct 10",
+    "apply": "https://www.adzuna.com/details/5922261160?utm_medium=api&utm_source=5ea67274"
    },
    {
     "title": "Software Engineer",
     "n": 30,
-    "lo": 134500,
-    "hi": 260400,
+    "lo": 120000,
+    "hi": 250200,
     "emps": [
-     "Echodyne Corp",
-     "Smartsheet",
-     "Accenture"
+     "Oracle",
+     "Atlassian",
+     "Skai"
     ],
-    "latest": "Oct 9",
-    "apply": "https://www.adzuna.com/land/ad/5921099490?se=3t-7Pg3E8RG_59bpLSVmjQ&utm_medium=api&utm_source=5ea67274&v=D2819EBD8E315926EF9E0AA5FF9018AC0FD88B42"
+    "latest": "Oct 10",
+    "apply": "https://www.adzuna.com/land/ad/5922278556?se=7K3B1MbE8RGjSfrCsBO0RQ&utm_medium=api&utm_source=5ea67274&v=09FB5365766388890BC1D84973620406DCAF36C3"
    },
    {
     "title": "Financial Analyst",
     "n": 30,
-    "lo": 111000,
-    "hi": 300000,
+    "lo": 100000,
+    "hi": 140000,
     "emps": [
-     "Dow Jones & Company",
-     "ApTask",
-     "MongoDB"
+     "BBVA",
+     "NYU",
+     "S&P Global"
     ],
-    "latest": "Oct 9",
-    "apply": "https://www.adzuna.com/details/5920617038?utm_medium=api&utm_source=5ea67274"
+    "latest": "Oct 10",
+    "apply": "https://www.adzuna.com/land/ad/5922273277?se=qns11cbE8RGE9KEGULvTlA&utm_medium=api&utm_source=5ea67274&v=2A4E7E2D43EEAA9EDE3D592DD38B4D44D3C73ED8"
    },
    {
     "title": "Project Manager",
     "n": 30,
-    "lo": 74325,
-    "hi": 145400,
+    "lo": 102034,
+    "hi": 149207,
     "emps": [
-     "Royal Electric",
-     "Roberts Resorts",
-     "CyberCoders"
+     "Pearson",
+     "Oracle",
+     "Logitech"
     ],
-    "latest": "Oct 9",
-    "apply": "https://www.adzuna.com/land/ad/5921101614?se=PC2XPw3E8RGAYIVsDFf18w&utm_medium=api&utm_source=5ea67274&v=E87D1613F2B8E0EFAA4154444F1C26B9C3A61DF0"
+    "latest": "Oct 10",
+    "apply": "https://www.adzuna.com/details/5922339884?utm_medium=api&utm_source=5ea67274"
    }
   ]
  },
