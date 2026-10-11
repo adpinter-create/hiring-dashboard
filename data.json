@@ -48,59 +48,59 @@
   ]
  },
  "live": {
-  "updated": "Oct 10, 2026",
+  "updated": "Oct 11, 2026",
   "roles": [
    {
     "title": "Registered Nurse",
     "n": 30,
-    "lo": 106860,
-    "hi": 136916,
+    "lo": 7491,
+    "hi": 124800,
     "emps": [
-     "BrightSpring Health Services",
-     "Heart N Soul Hospice",
-     "Methodist University Hospital"
+     "Select Medical",
+     "Baptist",
+     "VTP"
     ],
-    "latest": "Oct 10",
-    "apply": "https://www.adzuna.com/details/5922261160?utm_medium=api&utm_source=5ea67274"
+    "latest": "Oct 11",
+    "apply": "https://www.adzuna.com/land/ad/5923260556?se=dNrnRZPF8RGjSfrCsBO0RQ&utm_medium=api&utm_source=5ea67274&v=E5845CBE1D735BE6243E5BAF0F7A397A66F3B500"
    },
    {
     "title": "Software Engineer",
     "n": 30,
-    "lo": 120000,
-    "hi": 250200,
+    "lo": 148500,
+    "hi": 369500,
     "emps": [
      "Oracle",
-     "Atlassian",
-     "Skai"
+     "J.P. Morgan",
+     "Amazon"
     ],
-    "latest": "Oct 10",
-    "apply": "https://www.adzuna.com/land/ad/5922278556?se=7K3B1MbE8RGjSfrCsBO0RQ&utm_medium=api&utm_source=5ea67274&v=09FB5365766388890BC1D84973620406DCAF36C3"
+    "latest": "Oct 11",
+    "apply": "https://www.adzuna.com/land/ad/5923395608?se=ojhCRpPF8RG42acZDaFU1Q&utm_medium=api&utm_source=5ea67274&v=854C167123C5C248799C3478D4145BD8B92D1754"
    },
    {
     "title": "Financial Analyst",
     "n": 30,
-    "lo": 100000,
-    "hi": 140000,
+    "lo": 75000,
+    "hi": 205000,
     "emps": [
-     "BBVA",
-     "NYU",
+     "Risk Management Solutions ",
+     "Pivotal Health",
      "S&P Global"
     ],
-    "latest": "Oct 10",
-    "apply": "https://www.adzuna.com/land/ad/5922273277?se=qns11cbE8RGE9KEGULvTlA&utm_medium=api&utm_source=5ea67274&v=2A4E7E2D43EEAA9EDE3D592DD38B4D44D3C73ED8"
+    "latest": "Oct 11",
+    "apply": "https://www.adzuna.com/land/ad/5923406263?se=LJKLRpPF8RGRs48L_-pA7w&utm_medium=api&utm_source=5ea67274&v=FF80A8A92413031D9737914A04E80571532F3F32"
    },
    {
     "title": "Project Manager",
     "n": 30,
-    "lo": 102034,
-    "hi": 149207,
+    "lo": 98995,
+    "hi": 167029,
     "emps": [
-     "Pearson",
-     "Oracle",
-     "Logitech"
+     "Prime Therapeutics",
+     "Otsuka America Pharmaceutical Inc.",
+     "Oracle"
     ],
-    "latest": "Oct 10",
-    "apply": "https://www.adzuna.com/details/5922339884?utm_medium=api&utm_source=5ea67274"
+    "latest": "Oct 11",
+    "apply": "https://www.adzuna.com/details/5923423610?utm_medium=api&utm_source=5ea67274"
    }
   ]
  },
