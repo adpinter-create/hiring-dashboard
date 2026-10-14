@@ -48,59 +48,59 @@
   ]
  },
  "live": {
-  "updated": "Oct 13, 2026",
+  "updated": "Oct 14, 2026",
   "roles": [
    {
     "title": "Registered Nurse",
     "n": 30,
-    "lo": 7276,
-    "hi": 124800,
+    "lo": 7264,
+    "hi": 10532,
     "emps": [
-     "Baptist Memorial Health",
-     "The Waters of Memphis",
-     "Methodist Le Bonheur Healthcare"
+     "Angels of Care Pediatric Home Health",
+     "Cynet Health",
+     "GQR Healthcare"
     ],
-    "latest": "Oct 13",
-    "apply": "https://www.adzuna.com/land/ad/5926119925?se=4qaqKDTH8RGRfqO_uPpR2Q&utm_medium=api&utm_source=5ea67274&v=4E8430C55F70F80EEA6F4571F3ED15CC45B24D28"
+    "latest": "Oct 14",
+    "apply": "https://www.adzuna.com/details/5927563325?utm_medium=api&utm_source=5ea67274"
    },
    {
     "title": "Software Engineer",
     "n": 30,
-    "lo": 117200,
-    "hi": 624000,
+    "lo": 140000,
+    "hi": 233500,
     "emps": [
-     "RADAR",
-     "Impinj",
-     "The Talent Mine"
+     "Geopaq Logic",
+     "Oracle",
+     "Sigma Design"
     ],
-    "latest": "Oct 13",
-    "apply": "https://www.adzuna.com/land/ad/5926112663?se=_vPlKTTH8RGgLOK4tK8EzQ&utm_medium=api&utm_source=5ea67274&v=F90CACB585E3EB2460504A6FA76ED386CAB0CF81"
+    "latest": "Oct 14",
+    "apply": "https://www.adzuna.com/land/ad/5927681221?se=XPZnAejH8RGMeuQWzwoBfw&utm_medium=api&utm_source=5ea67274&v=5C8CA5C87AC1603FA42A2035FD625CA375CC628E"
    },
    {
     "title": "Financial Analyst",
     "n": 30,
-    "lo": 75000,
+    "lo": 86682,
     "hi": 205000,
     "emps": [
-     "VDart, Inc.",
-     "Metropolitan Transportation Authority",
+     "NBCUniversal",
+     "The Bancorp Bank, N.A.",
      "DTCC"
     ],
-    "latest": "Oct 13",
-    "apply": "https://www.adzuna.com/land/ad/5925924457?se=Dri7KjTH8RGgLOK4tK8EzQ&utm_medium=api&utm_source=5ea67274&v=53028235BB75D4727BFFCC4EB570AA33B42D2AF2"
+    "latest": "Oct 14",
+    "apply": "https://www.adzuna.com/land/ad/5927661978?se=aFXeAejH8RGTY4AJ4znMGw&utm_medium=api&utm_source=5ea67274&v=F384E995F3CEDA51F8CAE905C5E9672647280C62"
    },
    {
     "title": "Project Manager",
     "n": 30,
-    "lo": 114400,
-    "hi": 124800,
+    "lo": 100769,
+    "hi": 153847,
     "emps": [
-     "Cynet Systems",
-     "Kimmel & Associates",
-     "ARCO Companies"
+     "Lumen",
+     "Jacobs",
+     "Humana"
     ],
-    "latest": "Oct 13",
-    "apply": "https://www.adzuna.com/details/5926132053?utm_medium=api&utm_source=5ea67274"
+    "latest": "Oct 14",
+    "apply": "https://www.adzuna.com/details/5927680732?utm_medium=api&utm_source=5ea67274"
    }
   ]
  },
