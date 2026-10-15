@@ -48,7 +48,7 @@
   ]
  },
  "live": {
-  "updated": "Oct 14, 2026",
+  "updated": "Oct 15, 2026",
   "roles": [
    {
     "title": "Registered Nurse",
@@ -56,51 +56,51 @@
     "lo": 7264,
     "hi": 10532,
     "emps": [
-     "Angels of Care Pediatric Home Health",
-     "Cynet Health",
-     "GQR Healthcare"
+     "Qualivis / Methodist University",
+     "AMN Healthcare",
+     "WPA Nursing Staffing LLC"
     ],
-    "latest": "Oct 14",
-    "apply": "https://www.adzuna.com/details/5927563325?utm_medium=api&utm_source=5ea67274"
+    "latest": "Oct 15",
+    "apply": "https://www.adzuna.com/details/5929056684?utm_medium=api&utm_source=5ea67274"
    },
    {
     "title": "Software Engineer",
     "n": 30,
-    "lo": 140000,
-    "hi": 233500,
+    "lo": 110000,
+    "hi": 270600,
     "emps": [
-     "Geopaq Logic",
-     "Oracle",
-     "Sigma Design"
+     "Amazon",
+     "J.P. Morgan",
+     "Oracle"
     ],
-    "latest": "Oct 14",
-    "apply": "https://www.adzuna.com/land/ad/5927681221?se=XPZnAejH8RGMeuQWzwoBfw&utm_medium=api&utm_source=5ea67274&v=5C8CA5C87AC1603FA42A2035FD625CA375CC628E"
+    "latest": "Oct 15",
+    "apply": "https://www.adzuna.com/land/ad/5929147671?se=oACGNq_I8RGgYcdhZypWfA&utm_medium=api&utm_source=5ea67274&v=1FF377118C42D8E625BEC822C3A925EBAEF1F2D4"
    },
    {
     "title": "Financial Analyst",
     "n": 30,
-    "lo": 86682,
-    "hi": 205000,
+    "lo": 83200,
+    "hi": 166000,
     "emps": [
-     "NBCUniversal",
-     "The Bancorp Bank, N.A.",
-     "DTCC"
+     "Stifel",
+     "Google",
+     "Yoh, A Day & Zimmermann Company"
     ],
-    "latest": "Oct 14",
-    "apply": "https://www.adzuna.com/land/ad/5927661978?se=aFXeAejH8RGTY4AJ4znMGw&utm_medium=api&utm_source=5ea67274&v=F384E995F3CEDA51F8CAE905C5E9672647280C62"
+    "latest": "Oct 15",
+    "apply": "https://www.adzuna.com/details/5929123644?utm_medium=api&utm_source=5ea67274"
    },
    {
     "title": "Project Manager",
     "n": 30,
-    "lo": 100769,
-    "hi": 153847,
+    "lo": 96000,
+    "hi": 185000,
     "emps": [
-     "Lumen",
-     "Jacobs",
-     "Humana"
+     "Amazon",
+     "Electric Power Engineers",
+     "Kleinfelder Inc"
     ],
-    "latest": "Oct 14",
-    "apply": "https://www.adzuna.com/details/5927680732?utm_medium=api&utm_source=5ea67274"
+    "latest": "Oct 15",
+    "apply": "https://www.adzuna.com/details/5929148367?utm_medium=api&utm_source=5ea67274"
    }
   ]
  },
