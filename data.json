@@ -48,59 +48,59 @@
   ]
  },
  "live": {
-  "updated": "Oct 15, 2026",
+  "updated": "Oct 16, 2026",
   "roles": [
    {
     "title": "Registered Nurse",
     "n": 30,
-    "lo": 7264,
-    "hi": 10532,
+    "lo": 54095,
+    "hi": 143676,
     "emps": [
-     "Qualivis / Methodist University",
-     "AMN Healthcare",
-     "WPA Nursing Staffing LLC"
+     "Cross Country Nurses",
+     "Youth Villages",
+     "Fresenius Medical Care"
     ],
-    "latest": "Oct 15",
-    "apply": "https://www.adzuna.com/details/5929056684?utm_medium=api&utm_source=5ea67274"
+    "latest": "Oct 16",
+    "apply": "https://www.adzuna.com/land/ad/5930744249?se=6sgNynbJ8RGjutuTSb6jOA&utm_medium=api&utm_source=5ea67274&v=A9A5A589C5C6B6655CBD68944DF1AACC593B1A62"
    },
    {
     "title": "Software Engineer",
     "n": 30,
-    "lo": 110000,
-    "hi": 270600,
+    "lo": 124800,
+    "hi": 208000,
     "emps": [
-     "Amazon",
+     "Oracle",
      "J.P. Morgan",
-     "Oracle"
+     "Amazon"
     ],
-    "latest": "Oct 15",
-    "apply": "https://www.adzuna.com/land/ad/5929147671?se=oACGNq_I8RGgYcdhZypWfA&utm_medium=api&utm_source=5ea67274&v=1FF377118C42D8E625BEC822C3A925EBAEF1F2D4"
+    "latest": "Oct 16",
+    "apply": "https://www.adzuna.com/land/ad/5930784207?se=ZHZyynbJ8RGq65mh8wCbFA&utm_medium=api&utm_source=5ea67274&v=1205BDBC6762BA9FFEBD2E5B8671BCC9972DE1ED"
    },
    {
     "title": "Financial Analyst",
     "n": 30,
-    "lo": 83200,
-    "hi": 166000,
+    "lo": 75000,
+    "hi": 125000,
     "emps": [
-     "Stifel",
-     "Google",
-     "Yoh, A Day & Zimmermann Company"
+     "J.P. Morgan",
+     "Turing",
+     "Priceline"
     ],
-    "latest": "Oct 15",
-    "apply": "https://www.adzuna.com/details/5929123644?utm_medium=api&utm_source=5ea67274"
+    "latest": "Oct 16",
+    "apply": "https://www.adzuna.com/land/ad/5930783699?se=EhWyynbJ8RGr8u-tzxDKQA&utm_medium=api&utm_source=5ea67274&v=086A8C001A75FD43A705693073EB76FD77ADE019"
    },
    {
     "title": "Project Manager",
     "n": 30,
-    "lo": 96000,
-    "hi": 185000,
+    "lo": 74200,
+    "hi": 180000,
     "emps": [
-     "Amazon",
-     "Electric Power Engineers",
-     "Kleinfelder Inc"
+     "GlobalFoundries",
+     "GBA Team",
+     "DPR"
     ],
-    "latest": "Oct 15",
-    "apply": "https://www.adzuna.com/details/5929148367?utm_medium=api&utm_source=5ea67274"
+    "latest": "Oct 16",
+    "apply": "https://www.adzuna.com/details/5930776147?utm_medium=api&utm_source=5ea67274"
    }
   ]
  },
